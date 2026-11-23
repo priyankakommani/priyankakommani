@@ -56,4 +56,4 @@ I build production software end to end, from PostgreSQL schemas and Node.js APIs
 
 ---
 
-<p align="center"><i>Open to full-time, contract and freelance work: backend, full-stack and AI engineering.</i></p>
+<p align="center"><i>Open to full-time, contract and freelance work in backend, full-stack and AI engineering.</i></p>
